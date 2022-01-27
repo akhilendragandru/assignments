@@ -1,0 +1,7 @@
+C:\Users\GA65843\Desktop\assigment\student-marks\student-marks\obj\Debug\student-marks.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\student-marks\student-marks\obj\Debug\student-marks.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\student-marks\student-marks\bin\Debug\student-marks.exe.config
+C:\Users\GA65843\Desktop\assigment\student-marks\student-marks\bin\Debug\student-marks.exe
+C:\Users\GA65843\Desktop\assigment\student-marks\student-marks\bin\Debug\student-marks.pdb
+C:\Users\GA65843\Desktop\assigment\student-marks\student-marks\obj\Debug\student-marks.exe
+C:\Users\GA65843\Desktop\assigment\student-marks\student-marks\obj\Debug\student-marks.pdb

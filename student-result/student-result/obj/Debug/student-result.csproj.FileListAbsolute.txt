@@ -1,0 +1,7 @@
+C:\Users\GA65843\Desktop\assigment\student-result\student-result\bin\Debug\student-result.exe.config
+C:\Users\GA65843\Desktop\assigment\student-result\student-result\bin\Debug\student-result.exe
+C:\Users\GA65843\Desktop\assigment\student-result\student-result\bin\Debug\student-result.pdb
+C:\Users\GA65843\Desktop\assigment\student-result\student-result\obj\Debug\student-result.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\student-result\student-result\obj\Debug\student-result.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\student-result\student-result\obj\Debug\student-result.exe
+C:\Users\GA65843\Desktop\assigment\student-result\student-result\obj\Debug\student-result.pdb

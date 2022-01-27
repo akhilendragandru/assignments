@@ -1,0 +1,7 @@
+C:\Users\GA65843\Desktop\assigment\passorfail\passorfail\bin\Debug\passorfail.exe.config
+C:\Users\GA65843\Desktop\assigment\passorfail\passorfail\bin\Debug\passorfail.exe
+C:\Users\GA65843\Desktop\assigment\passorfail\passorfail\bin\Debug\passorfail.pdb
+C:\Users\GA65843\Desktop\assigment\passorfail\passorfail\obj\Debug\passorfail.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\passorfail\passorfail\obj\Debug\passorfail.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\passorfail\passorfail\obj\Debug\passorfail.exe
+C:\Users\GA65843\Desktop\assigment\passorfail\passorfail\obj\Debug\passorfail.pdb

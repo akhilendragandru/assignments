@@ -1,0 +1,8 @@
+C:\Users\GA65843\Desktop\assigment\min-max-avg\min-max-avg\bin\Debug\min-max-avg.exe.config
+C:\Users\GA65843\Desktop\assigment\min-max-avg\min-max-avg\bin\Debug\min-max-avg.exe
+C:\Users\GA65843\Desktop\assigment\min-max-avg\min-max-avg\bin\Debug\min-max-avg.pdb
+C:\Users\GA65843\Desktop\assigment\min-max-avg\min-max-avg\obj\Debug\min-max-avg.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\min-max-avg\min-max-avg\obj\Debug\min-max-avg.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\min-max-avg\min-max-avg\obj\Debug\min-max-avg.exe
+C:\Users\GA65843\Desktop\assigment\min-max-avg\min-max-avg\obj\Debug\min-max-avg.pdb
+C:\Users\GA65843\Desktop\assigment\min-max-avg\min-max-avg\obj\Debug\min-max-avg.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\GA65843\Desktop\assigment\totalmarks\totalmarks\bin\Debug\totalmarks.exe.config
+C:\Users\GA65843\Desktop\assigment\totalmarks\totalmarks\bin\Debug\totalmarks.exe
+C:\Users\GA65843\Desktop\assigment\totalmarks\totalmarks\bin\Debug\totalmarks.pdb
+C:\Users\GA65843\Desktop\assigment\totalmarks\totalmarks\obj\Debug\totalmarks.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\totalmarks\totalmarks\obj\Debug\totalmarks.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\totalmarks\totalmarks\obj\Debug\totalmarks.exe
+C:\Users\GA65843\Desktop\assigment\totalmarks\totalmarks\obj\Debug\totalmarks.pdb
+C:\Users\GA65843\Desktop\assigment\totalmarks\totalmarks\obj\Debug\totalmarks.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\GA65843\Desktop\assigment\large\large\bin\Debug\large.exe.config
+C:\Users\GA65843\Desktop\assigment\large\large\bin\Debug\large.exe
+C:\Users\GA65843\Desktop\assigment\large\large\bin\Debug\large.pdb
+C:\Users\GA65843\Desktop\assigment\large\large\obj\Debug\large.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\large\large\obj\Debug\large.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\large\large\obj\Debug\large.exe
+C:\Users\GA65843\Desktop\assigment\large\large\obj\Debug\large.pdb
+C:\Users\GA65843\Desktop\assigment\large\large\obj\Debug\large.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\GA65843\Desktop\assigment\temp\temp\bin\Debug\temp.exe.config
+C:\Users\GA65843\Desktop\assigment\temp\temp\bin\Debug\temp.exe
+C:\Users\GA65843\Desktop\assigment\temp\temp\bin\Debug\temp.pdb
+C:\Users\GA65843\Desktop\assigment\temp\temp\obj\Debug\temp.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\temp\temp\obj\Debug\temp.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\temp\temp\obj\Debug\temp.exe
+C:\Users\GA65843\Desktop\assigment\temp\temp\obj\Debug\temp.pdb
+C:\Users\GA65843\Desktop\assigment\temp\temp\obj\Debug\temp.csproj.AssemblyReference.cache

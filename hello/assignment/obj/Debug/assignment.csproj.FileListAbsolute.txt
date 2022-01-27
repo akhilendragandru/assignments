@@ -1,0 +1,16 @@
+C:\Users\GA65843\Desktop\assigment\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\GA65843\Desktop\assigment\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\GA65843\Desktop\assigment\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\GA65843\Desktop\assigment\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\GA65843\Desktop\assigment\assignment\assignment\obj\Debug\assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\GA65843\Desktop\assigment\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\GA65843\Desktop\assigment\hello\assignment\bin\Debug\assignment.exe.config
+C:\Users\GA65843\Desktop\assigment\hello\assignment\bin\Debug\assignment.exe
+C:\Users\GA65843\Desktop\assigment\hello\assignment\bin\Debug\assignment.pdb
+C:\Users\GA65843\Desktop\assigment\hello\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\GA65843\Desktop\assigment\hello\assignment\obj\Debug\assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\hello\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\hello\assignment\obj\Debug\assignment.exe
+C:\Users\GA65843\Desktop\assigment\hello\assignment\obj\Debug\assignment.pdb

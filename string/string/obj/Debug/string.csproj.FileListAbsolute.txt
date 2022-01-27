@@ -1,0 +1,8 @@
+C:\Users\GA65843\Desktop\assigment\string\string\bin\Debug\@string.exe.config
+C:\Users\GA65843\Desktop\assigment\string\string\bin\Debug\@string.exe
+C:\Users\GA65843\Desktop\assigment\string\string\bin\Debug\@string.pdb
+C:\Users\GA65843\Desktop\assigment\string\string\obj\Debug\string.csproj.AssemblyReference.cache
+C:\Users\GA65843\Desktop\assigment\string\string\obj\Debug\string.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\string\string\obj\Debug\string.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\string\string\obj\Debug\@string.exe
+C:\Users\GA65843\Desktop\assigment\string\string\obj\Debug\@string.pdb

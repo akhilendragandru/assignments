@@ -1,0 +1,7 @@
+C:\Users\GA65843\Desktop\assigment\student\student\obj\Debug\student.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\student\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\student\student\bin\Debug\student.exe.config
+C:\Users\GA65843\Desktop\assigment\student\student\bin\Debug\student.exe
+C:\Users\GA65843\Desktop\assigment\student\student\bin\Debug\student.pdb
+C:\Users\GA65843\Desktop\assigment\student\student\obj\Debug\student.exe
+C:\Users\GA65843\Desktop\assigment\student\student\obj\Debug\student.pdb
