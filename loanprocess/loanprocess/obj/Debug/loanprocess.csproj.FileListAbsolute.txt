@@ -1,0 +1,3 @@
+C:\Users\GA65843\Desktop\assigment\loanprocess\loanprocess\obj\Debug\loanprocess.csproj.AssemblyReference.cache
+C:\Users\GA65843\Desktop\assigment\loanprocess\loanprocess\obj\Debug\loanprocess.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\loanprocess\loanprocess\obj\Debug\loanprocess.csproj.CoreCompileInputs.cache
