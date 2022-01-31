@@ -1,0 +1,3 @@
+C:\Users\GA65843\Desktop\assigment\studenttxt\studenttxt\obj\Debug\studenttxt.csproj.AssemblyReference.cache
+C:\Users\GA65843\Desktop\assigment\studenttxt\studenttxt\obj\Debug\studenttxt.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\studenttxt\studenttxt\obj\Debug\studenttxt.csproj.CoreCompileInputs.cache
