@@ -1,0 +1,8 @@
+C:\Users\GA65843\Desktop\assigment\passenger\passenger\obj\Debug\passenger.csproj.AssemblyReference.cache
+C:\Users\GA65843\Desktop\assigment\passenger\passenger\obj\Debug\passenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\passenger\passenger\obj\Debug\passenger.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\passenger\passenger\bin\Debug\passenger.exe.config
+C:\Users\GA65843\Desktop\assigment\passenger\passenger\bin\Debug\passenger.exe
+C:\Users\GA65843\Desktop\assigment\passenger\passenger\bin\Debug\passenger.pdb
+C:\Users\GA65843\Desktop\assigment\passenger\passenger\obj\Debug\passenger.exe
+C:\Users\GA65843\Desktop\assigment\passenger\passenger\obj\Debug\passenger.pdb
