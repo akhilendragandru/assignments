@@ -1,0 +1,8 @@
+C:\Users\GA65843\Desktop\assigment\stctruct\stctruct\obj\Debug\stctruct.csproj.AssemblyReference.cache
+C:\Users\GA65843\Desktop\assigment\stctruct\stctruct\obj\Debug\stctruct.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\stctruct\stctruct\obj\Debug\stctruct.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\stctruct\stctruct\bin\Debug\stctruct.exe.config
+C:\Users\GA65843\Desktop\assigment\stctruct\stctruct\bin\Debug\stctruct.exe
+C:\Users\GA65843\Desktop\assigment\stctruct\stctruct\bin\Debug\stctruct.pdb
+C:\Users\GA65843\Desktop\assigment\stctruct\stctruct\obj\Debug\stctruct.exe
+C:\Users\GA65843\Desktop\assigment\stctruct\stctruct\obj\Debug\stctruct.pdb
