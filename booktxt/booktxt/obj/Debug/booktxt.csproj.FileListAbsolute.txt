@@ -1,0 +1,8 @@
+C:\Users\GA65843\Desktop\assigment\booktxt\booktxt\obj\Debug\booktxt.csproj.AssemblyReference.cache
+C:\Users\GA65843\Desktop\assigment\booktxt\booktxt\obj\Debug\booktxt.csproj.SuggestedBindingRedirects.cache
+C:\Users\GA65843\Desktop\assigment\booktxt\booktxt\obj\Debug\booktxt.csproj.CoreCompileInputs.cache
+C:\Users\GA65843\Desktop\assigment\booktxt\booktxt\bin\Debug\booktxt.exe.config
+C:\Users\GA65843\Desktop\assigment\booktxt\booktxt\bin\Debug\booktxt.exe
+C:\Users\GA65843\Desktop\assigment\booktxt\booktxt\bin\Debug\booktxt.pdb
+C:\Users\GA65843\Desktop\assigment\booktxt\booktxt\obj\Debug\booktxt.exe
+C:\Users\GA65843\Desktop\assigment\booktxt\booktxt\obj\Debug\booktxt.pdb
