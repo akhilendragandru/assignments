@@ -1,8 +1,0 @@
-C:\Users\GA65843\Desktop\assigment\cricket\cricket\bin\Debug\cricket.exe.config
-C:\Users\GA65843\Desktop\assigment\cricket\cricket\bin\Debug\cricket.exe
-C:\Users\GA65843\Desktop\assigment\cricket\cricket\bin\Debug\cricket.pdb
-C:\Users\GA65843\Desktop\assigment\cricket\cricket\obj\Debug\cricket.csproj.AssemblyReference.cache
-C:\Users\GA65843\Desktop\assigment\cricket\cricket\obj\Debug\cricket.csproj.SuggestedBindingRedirects.cache
-C:\Users\GA65843\Desktop\assigment\cricket\cricket\obj\Debug\cricket.csproj.CoreCompileInputs.cache
-C:\Users\GA65843\Desktop\assigment\cricket\cricket\obj\Debug\cricket.exe
-C:\Users\GA65843\Desktop\assigment\cricket\cricket\obj\Debug\cricket.pdb
