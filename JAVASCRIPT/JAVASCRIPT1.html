@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script>
+            function multiply()
+                {
+                    num1 = document.getElementById("first Number").value;
+                    num2 = document.getElementById("second Number").value;
+                    document.getElementById("result").innerHTML = num1 * num2;
+                }
+
+            function divide() 
+                { 
+                    num1 = document.getElementById("first Number").value;
+                    num2 = document.getElementById("second Number").value;
+                    document.getElementById("result").innerHTML = num1 / num2;
+                }
+        </script>
+        
+        <p>first Number: <input id="first Number"></p>
+        <p>second Number: <input id="second Number"></p>
+        <button onclick="multiply()">Multiply</button>
+        <button onclick="divide()">Divide</button>
+        <p>The Result Is : <br>
+        <span id = "result"></span>
+        </p>
+    </body>
+</html>
