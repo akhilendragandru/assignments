@@ -1,0 +1,76 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data.SqlClient;
+using System.Data;
+
+
+
+
+namespace CodeTest
+{
+
+    internal class Client
+    {
+        public static SqlConnection con;
+        public static SqlCommand cmd;
+
+        static void Main(string[] args)
+        {
+            con = getConnection();
+            string name, type;
+            double sal;
+            Console.WriteLine("Enter the empmloyee details: ");
+            name = Console.ReadLine();
+            sal = Convert.ToDouble(Console.ReadLine());
+            type = Console.ReadLine();
+
+            cmd = new SqlCommand("InsertEmployee", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+
+            SqlParameter param;
+            param = cmd.Parameters.Add("@name", SqlDbType.NVarChar, 50);
+            param.Value = name;
+            param = cmd.Parameters.Add("@sal", SqlDbType.Money);
+            param.Value = sal;
+            param = cmd.Parameters.Add("@type", SqlDbType.NVarChar, 1);
+            param.Value = type;
+
+            int NoOfRows = cmd.ExecuteNonQuery();
+            con.Close();
+
+            if (NoOfRows > 0)
+                Console.WriteLine(NoOfRows.ToString() + " record(s) inserted");
+
+            Console.ReadLine();
+        }
+        static SqlConnection getConnection()
+        {
+            con = new SqlConnection("data source=AKHILENDRA;initial catalog=EmployeeManagement;" +
+           "integrated security=true");
+            con.Open();
+            return con;
+        }
+    }
+}
+---------------------------------------------------------
+DataBase
+
+
+create database EmployeeManagement
+use EmployeeManagement
+
+create table Code_Employee(
+empno int primary key identity(1,1),
+empname varchar(50) not null,
+empsal numeric(10,2) check(empsal>=25000),
+emptype varchar(1) check(emptype in ('C','P'))
+)
+
+create or alter proc InsertEmployee(@name varchar(50),@sal numeric,@type varchar)
+as begin
+insert into Code_Employee values (@name,@sal,@type)
+end
+select * from Code_Employee
